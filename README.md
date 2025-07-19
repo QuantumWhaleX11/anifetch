@@ -30,7 +30,7 @@ Ensure these tools are correctly installed and configured on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/<name>/anifetch.git
+    git clone https://github.com/QuantumWhaleX11/anifetch.git
     cd anifetch
     ```
 
