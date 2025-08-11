@@ -1,8 +1,10 @@
-# dwl - dwm for Wayland
+# Anifetch
 
 > ### ⚠️ Migrated to Codeberg
 >
 > This project has [migrated to Codeberg](https://codeberg.org/QuantumWhaleX11/anifetch).
+
+
 This is a command-line tool that displays video as ASCII art directly in your terminal, alongside system information fetched by `fastfetch`.
 
 ## Dependencies
